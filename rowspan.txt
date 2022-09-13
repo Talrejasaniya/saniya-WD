@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<body>
+<table border="2px">
+<tr>
+<th>Name</th>
+<td>jill</td>
+<td>prachi</td>
+<td>kamaxi</td>
+</tr>
+<tr>
+<th rowspan="2">phone</th>
+<td>8586995</td>
+</tr>
+<tr>
+<td>8578859</td>
+</tr>
+</table>
+</body>
+</html>
