@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <head>
+        <centr><h1>login page</h1></centr>
+    </head>
+    <body>
+        <form>
+            <table border="2px" align="center">
+                <tr>
+                    <td>
+                        username
+                    </td>
+                    <td>
+                        <input type="text" placeholder="email" name="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        password
+                    </td>
+                    <td>
+                        <input type="password" placeholder="password" name="">
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <button type="submit">login</button></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
+
