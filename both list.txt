@@ -1,0 +1,42 @@
+<!doctype. html>
+<html>
+    <head>
+        <title>
+            </title>
+        </head>
+                <body>
+                <h1>order list</h1>
+                <ol>
+                    <li>order list </li>
+                    <li>clanguage</li>
+                    <li>c++</li>
+                    <li>dbms</li>
+                    <li>computer network</li>
+                </ol>
+                </body>
+                
+                
+</html>
+<!doctype. html>
+<html>
+    <head>
+        <title>
+            </title>
+        </head>
+                <body>
+                <h1>unorder list</h1>
+                <ul>
+                    <li>order list </li>
+                    <li>clanguage</li>
+                    <li>c++</li>
+                    <li>dbms</li>
+                    <li>computer network</li>
+                </ul>
+                </body>
+                
+                
+</html>
+
+                
+
+                
