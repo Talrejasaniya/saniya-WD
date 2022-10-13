@@ -1,0 +1,10 @@
+<doctype html>
+  <html>
+    <head>
+      <title>formatting text</title>
+      </head>
+    <body>
+      <i>italic</i></br>
+      <b>bold</b></br>
+  <u>underline<u>
+      
