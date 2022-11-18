@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>insert image</title>
+</head>
+<body>
+<img src ="P:\sam.jpg">
+</body>
+</html>
