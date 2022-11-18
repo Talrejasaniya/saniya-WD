@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>insert image</title>
+</head>
+<body>
+<iframe src ="https://silveroakuni.ac.in/" sytle color="blue"></iframe>>
+</body>
+</html>
