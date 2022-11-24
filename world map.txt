@@ -1,0 +1,6 @@
+<!doctype html>
+<img src="P:\world-political-maps.jpg"
+usemap="#map"/>
+<map name="map">
+    <area shape="rect" coords="0.0,100,100"title="hi"href="anmouseover="alert()">
+</map>
